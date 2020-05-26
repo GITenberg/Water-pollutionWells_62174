@@ -1,0 +1,28 @@
+_repo: Water-pollutionWells_62174
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Watson, Irving A. (Irving Allison)
+    alias: Watson, Irving Allison
+    birthdate: 1849
+    deathdate: 1918
+    gutenberg_agent_id: '51806'
+    url: http://www.gutenberg.org/2009/agents/51806
+description: ''
+gutenberg_issued: '2020-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drinking water'
+- !lcc 'TD'
+- !lcsh 'Water -- Pollution'
+- !lcsh 'Wells'
+- !lcc 'RA'
+- GITenberg
+title: Water pollution—Wells
+url: http://www.gutenberg.org/ebooks/62174
